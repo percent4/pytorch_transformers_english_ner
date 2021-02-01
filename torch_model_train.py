@@ -3,11 +3,6 @@
 # @Author : Jclian91
 # @File : torch_model_train.py
 # @Place : Yangpu, Shanghai
-# -*- coding: utf-8 -*-
-# @Time : 2021/1/31 13:28
-# @Author : Jclian91
-# @File : model_train.py
-# @Place : Yangpu, Shanghai
 import json
 import torch
 import numpy as np

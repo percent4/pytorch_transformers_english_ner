@@ -28,7 +28,7 @@
 
 ### 模型结构
 
-transformers中的ertForTokenClassification模型
+transformers中的BertForTokenClassification模型
 
 ### 模型效果
 
